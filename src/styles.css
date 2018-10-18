@@ -1,0 +1,33 @@
+* { 
+  padding: 0; margin: 0; }
+
+h1 {
+  text-align: center;
+}
+
+#combatText {
+  margin-top: 50px;
+}
+.userHealth {
+display: inline-block;
+text-align: center;
+float:right;
+}
+.enemyHealth {
+  display: inline-block;
+  text-align: center;
+  float: left;
+  }
+  
+
+h3, h4 {
+text-align: center;
+}
+
+canvas {
+  border:1px solid black;
+  background-color: #f1f1f1;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
